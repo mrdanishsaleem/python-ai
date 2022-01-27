@@ -35,14 +35,14 @@ Use the following keywords for their associated operations:
 
 You can start using the AI calculator with the following sample commands:
 
-```
+```text
 What is two plus 24?
 What is two plus 5 times 20
 ```
 
 ### Sample output
 
-```
+```text
 two plus 24 = 26
 two plus 5 times 20 = 102
 ```

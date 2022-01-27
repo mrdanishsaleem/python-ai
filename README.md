@@ -8,6 +8,8 @@
 - Run the file a type the name of the city to get its time.
 - If the name of the city is not preloaded or is incorrect, the GMT will be printed.
 
+---
+
 ## AI Calculator 🖩
 
 ### Features
@@ -46,3 +48,14 @@ What is two plus 5 times 20
 two plus 24 = 26
 two plus 5 times 20 = 102
 ```
+
+---
+
+## Chatbot 🤖
+
+### Features
+
+- In this activity, we will be using a Python library, chatterbot, to implement a chatbot.
+- This library generates automated responses to the user input. The responses are based on machine learning algorithms implemented in the library.
+- Our goal is to make sure that the chatbot is trained in multiple languages in order to cater to different communities.
+- The ML algorithms make it easier for the chatbot to improve and evolve its responses over time as it collects user responses.
